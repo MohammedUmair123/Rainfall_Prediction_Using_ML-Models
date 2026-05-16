@@ -1,5 +1,7 @@
 # 🌧️ Rainfall Prediction Using Machine Learning Models
 
+![image alt](https://github.com/MohammedUmair123/Rainfall_Prediction_Using_ML-Models/blob/cbe20e630ebfd8d69109759789e0306e583f73b7/rainfall.avif)
+
 ## Overview
 This project focuses on predicting rainfall using multiple machine learning algorithms. By analyzing historical weather data, the model determines whether rainfall is likely to occur based on various atmospheric features.
 
